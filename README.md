@@ -6,10 +6,15 @@ In this project, I crafted a user-friendly sales report using Excel. This report
 Throughout the project, I acquired expertise on following
 
 ➡ Pivot Tables
+
 ➡ Power Query
+
 ➡ DAX
+
 ➡ Conditional Formatting
+
 ➡ Report Beautification
+
 ➡ Sales domain metrics
 
 The project's main objective is to empower businesses with the necessary tools and insights to monitor, evaluate and enhance their sales activities. By leveraging sales data analysis, businesses can unlock new opportunities for growth in a competitive market.
@@ -17,7 +22,11 @@ The project's main objective is to empower businesses with the necessary tools a
 Key Takeaways:
 
 ➡ Enhanced sales performance monitoring
+
 ➡ Data-driven customer discount optimization
+
 ➡ Strategic expansion opportunities
+
 ➡ User-friendly sales report
+
 ➡ Practical insights for refining strategies
